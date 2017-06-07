@@ -734,7 +734,7 @@ h3.home_subtitle{
     margin:0 10px 0 0;
 }
 
-#newsletter-form #submit-button-newsletter {
+#newsletter-form .submit-button-newsletter {
     width: 140px;
     height:60px;
     background-color:#216ae4;  
